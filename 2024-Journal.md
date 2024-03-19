@@ -2,4 +2,4 @@
 
 ## Cancel Subscription: Zoom
 
-Canceled my Zoom Subscription
+Canceled my Zoom Subscription.
